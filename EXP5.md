@@ -1,4 +1,4 @@
-## EX: 4 BINARY SEARCH 
+## EX: 5 BINARY SEARCH 
 ### Date: 17/04/2025
 ### Register Number:212222040173
 ### AIM: 
